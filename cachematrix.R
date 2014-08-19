@@ -33,8 +33,7 @@ cacheSolve <- function(x, ...) {
     x$setinverse(m)
     m    
   
-  
-  
+  3+3
   
   
   
